@@ -22,7 +22,7 @@ function App() {
   return (
     <>
       <h1>Chai aur react</h1>
-      <h2>Counter value:{count}</h2>
+      <h2>Counter value: {count}</h2>
 
       <button onClick={addValue}>Add value</button>
       <br />
